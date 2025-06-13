@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Buy groceries",
+    "status": "done"
+  },
+  {
+    "title": "Wash dishes",
+    "status": "in-progress"
+  },
+  {
+    "title": "Finish assignment",
+    "status": "todo"
+  }
+]
